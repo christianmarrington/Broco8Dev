@@ -1,7 +1,3 @@
-<p align="right">
-  <img align="right" height="140" src="pfp.png?raw=true" alt="Logo" style="float: right; "/>
-</p>
-
 ## I'm Christian, an iOS, Web and Game developer and UI/UX Designer.
 
 🛠️ My code toolkit includes Java, C#, Python, C++, Swift/SwiftUI, JavaScript, Electron, and HTML/CSS.
